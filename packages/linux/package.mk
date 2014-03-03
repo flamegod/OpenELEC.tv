@@ -19,7 +19,7 @@
 PKG_NAME="linux"
 case "$LINUX" in
   imx6)
-    PKG_VERSION="imx_3.0.35_4.1.0-5c73417"
+    PKG_VERSION="imx6-a305f2d"
     PKG_URL="$DISTRO_SRC/$PKG_NAME-$PKG_VERSION.tar.xz"
     ;;
   *)
